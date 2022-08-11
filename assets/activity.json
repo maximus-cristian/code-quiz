@@ -1,0 +1,22 @@
+{"quizlist":[
+  
+	{
+	"question":"What does CSS stand for?",
+	"option1":"Cascading Style Sheet",
+	"option2":"Computer Set System",
+	"option3":"Comply Simple Style"
+	},
+	{
+	"question":"What are the three main languages of the web?",
+	"option1":" HTML, CSS, and JavaScript",
+	"option2":"Java, Python, C#",
+	"option3":"SQL,C++,HTML"
+	},
+	{
+	"question":" What's an example of a primitive type of data?",
+	"option1":"Boolean",
+	"option2":"Index",
+	"option3":"SQL.Box"
+	}
+]
+}
